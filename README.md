@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-">
   </a>
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <img src="/logo.png" alt="Logo" width="80" height="80">
   <h3 align="center">FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-</h3>
 
   <p align="center">
