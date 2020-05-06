@@ -9,7 +9,7 @@
   <a href="https://github.com/pbrzoska024/FPS-MULTIPLAYER-PROJECT-WINDOWS64-32BIT-">
   </a>
   <img src="/logo.png" alt="Logo" width="80" height="80">
-  <h3 align="center">UE4_VFX Niaagra plasma effect-</h3>
+  <h3 align="center">UE4_VFX Niaagra plasma effect</h3>
 
   <p align="center">
 Ue4 VFX Niaagra plasma effect
